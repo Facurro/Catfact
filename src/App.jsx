@@ -44,4 +44,3 @@ const callApi = ()=>{
 }
 
 export default App
-//.split(" ").slice(0, 3).join(" "));
